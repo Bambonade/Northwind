@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Mb6eYdSYwZDZgJb0+kvk9pY8kgjOK0VhL6zzRbrlCG0=",
+  "Source": "Northwind",
+  "BasePath": "_content/Northwind",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind\\wwwroot",
+      "Source": "Northwind",
+      "ContentRoot": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\css\\client.css",
+      "SourceId": "Northwind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "RelativePath": "css/client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\client.css"
+    },
+    {
+      "Identity": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\js\\client.js",
+      "SourceId": "Northwind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "RelativePath": "js/client.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\client.js"
+    },
+    {
+      "Identity": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\media\\toast.wav",
+      "SourceId": "Northwind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "RelativePath": "media/toast.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\toast.wav"
+    }
+  ]
+}

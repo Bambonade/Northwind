@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e762a05f-be58-4355-ae6d-8daf75ef3042/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/northwind-18-btn",
+    "appService.deploySubpath": "bin\\Publish"
+}
