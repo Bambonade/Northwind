@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Brandon Nelson\OneDrive - Waukesha County Technical College\.Net Web Development\Northwind
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Brandon Nelson/OneDrive - Waukesha County Technical College/.Net Web Development/Northwind/Views/Customer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Brandon Nelson/OneDrive - Waukesha County Technical College/.Net Web Development/Northwind/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

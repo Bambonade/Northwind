@@ -18399,6 +18399,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\Views\\Customer\\Register.cshtml",
+      "TargetPath": "Views\\Customer\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Brandon Nelson\\OneDrive - Waukesha County Technical College\\.Net Web Development\\Northwind\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
